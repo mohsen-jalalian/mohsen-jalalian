@@ -15,18 +15,20 @@ I’m also open to collaborating with FinTech, SaaS, or tech innovation companie
 
 🪙 Morbit.trade
  — A fully functional, high-performance cryptocurrency exchange system, including a complete trading engine, market maker, and modular core architecture built with .NET Core and SQL Server.
+website: https://morbit.trade/
 
 🥑 Avacado.fun
  — A social wishlist and gifting platform that blends creativity, emotion, and AI-driven recommendations.
+ website: https://avacado.fun/
 
 💬 Ask me about:
 System design, .NET Core architecture, high-performance trading systems, performance optimization, or scaling products from MVP to global-ready.
 
 📫 How to reach me:
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/moh3njalalian/
 
-Avacado.fun
+Avacado.fun: https://avacado.fun/
 
 Email: mohsen.jalalian88@gmail.com
 
